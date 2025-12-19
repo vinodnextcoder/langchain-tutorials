@@ -106,13 +106,3 @@ This project is free to use for learning and educational purposes.
 
 ```
 
----
-
-If you want, I can also:
-- Add **badges (Python, LangChain, OpenRouter)**  
-- Add a **"Troubleshooting" section**
-- Add a **"Future Improvements" section**
-- Customize it for **GitHub portfolio presentation**
-
-Just tell me ✅
-```
