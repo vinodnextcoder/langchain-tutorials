@@ -1,10 +1,8 @@
-Here is a **clean, ready-to-copy `README.md`** for your project:
-
 ````md
 # 🤖 Simple AI Chatbot using LangChain + OpenRouter (Python)
 
 This is a basic Python project that shows how to use **LangChain** with **OpenRouter** to create a simple AI assistant.  
-The AI answers questions in **easy, simple words**, making it perfect for beginners learning AI integration.
+The AI answers questions in **easy, simple words**, making it perfect for beginners learning AI integration
 
 ---
 
